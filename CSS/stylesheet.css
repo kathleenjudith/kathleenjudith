@@ -1,8 +1,46 @@
-.wrapper {
+.sitewrapper{
   width: 1000px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 45px;
+}
+
+.show-on-scroll{
+  background-color: #FFF;
+  box-sizing: border-box;
+  color: black;
+  display: block;
+  height: 70px;
+  left: 0px;
+  line-height: 12px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 0px;
+  position: fixed;
+  right: 0px;
+  top: 0px;
+  width: auto;
+}
+
+.header-inner{
+  box-sizing: border-box;
+  color: black;
+  display: table;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 12px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 20px;
+  width: auto;
 }
 
 .image {
@@ -11,19 +49,19 @@
 }
 
 h1 {
-  font-family: Garamond, serif;
+  font-family: "Garamond", serif;
 }
 
 h3 {
-  font-family: Garamond, serif;
+  font-family: "Garamond", serif;
 }
 
 p {
-  font-family: Garamond, serif;
+  font-family: "Garamond", serif;
 }
 
 ul {
-  font-family: Garamond, serif;
+  font-family: "Garamond", serif;
 }
 
 .Bildung span {
